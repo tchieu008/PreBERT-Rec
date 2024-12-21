@@ -1,0 +1,8 @@
+.venv/
+config/stanford-corenlp-4.5.7/stanford-corenlp-4.5.7-models.jar
+config/stanford-parser-full-2020-11-17/stanford-parser-4.2.0-models.jar
+.vscode/
+chkpt/
+backup/
+results/
+__pycache__/
